@@ -1,0 +1,3 @@
+Build with token:
+http://localhost:8080/buildByToken/build?job=demo-4&token=mysecrettoken
+
